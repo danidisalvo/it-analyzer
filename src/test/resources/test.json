@@ -1,0 +1,54 @@
+[
+  {
+    "work": "work 1",
+    "position": "position 1",
+    "text": "some text",
+    "relevant": true,
+    "opposition": false,
+    "senses": [
+      "sense 1"
+    ]
+  },
+  {
+    "work": "work 2",
+    "position": "position 1",
+    "text": "some text",
+    "relevant": true,
+    "opposition": false,
+    "senses": [
+      "sense 2",
+      "sense 3"
+    ]
+  },
+  {
+    "work": "work 3",
+    "position": "position 1",
+    "text": "some text",
+    "relevant": false,
+    "opposition": false,
+    "senses": []
+  },
+  {
+    "work": "work 4",
+    "position": "position 1",
+    "text": "some text",
+    "relevant": true,
+    "opposition": true,
+    "senses": [
+      "opposition a",
+      "opposition b"
+    ]
+  },
+  {
+    "work": "work 5",
+    "position": "position 1",
+    "text": "some text",
+    "relevant": true,
+    "opposition": true,
+    "senses": [
+      "opposition c",
+      "opposition d",
+      "opposition e"
+    ]
+  }
+]

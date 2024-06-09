@@ -1,0 +1,5 @@
+work 1	position 1	some text	true		sense 1
+work 2	position 1	some text	true		sense 2, sense 3
+work 3	position 1	some text	false
+work 4	position 1	some text	true	true	opposition a, opposition b
+work 5	position 1	some text	true	true	opposition c, opposition d, opposition e
