@@ -45,7 +45,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>com.probendi.itparser.ITAnalyzer</mainClass>
+              <mainClass>com.probendi.itanalyzer.ITAnalyzer</mainClass>
             </manifest>
           </archive>
         </configuration>
